@@ -1,5 +1,5 @@
 # Basic-Scheduler
-By Stefannov & Afif Abdurahman
+By Stefannov & Afif Abdurrahman
 
 ## Deskripsi
 Program sederhana untuk membuat jadwal harian berbasis bahasa program C. Dilengkapi dengan fitur save dalam bentuk .txt.
